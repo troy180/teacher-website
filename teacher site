@@ -1,1 +1,26 @@
-<h1>jushl</h1>
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="thompson.css">
+    <body>
+      <marquee direction="down" align="left" scrollamount="3">
+        <h2>CARROLL JR/SR Highschool</h2>
+      </marquee>
+      <h1> Mrs.Thompson  </h1>  <hr>
+      <h2>About the 7th Grade English Teacher  </h2> <hr> 
+      <p>I teach 7th Grade ELA and 7th Grade Creative Dramatics and I am also the drama director. This is my fifth year at Carroll. I attended college at IU Kokomo. The only other job I have had was that I tutored and helped at an after-school program while in college. 
+
+        I have always had a great interest in Language Arts and wanted to foster the same enjoyment in others. 
+
+        My goal is to help students become better readers and writers. I also want to help grow the drama program and make it successful.
+
+        My peers would describe me as laid back. 
+      </p>
+      <h3>Stellina Thompson (7th Grade English teacher</h3> 
+      <hr> 
+      <img src="thompson.jpg" height="220" width="300"> 
+      <h4>Contact information: sthompson@carroll.k12.in.us </h4>
+      <h4> By Gunnar Fincher </h4>
+
+        </body>
+      </html>
